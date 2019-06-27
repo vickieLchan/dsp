@@ -1,3 +1,3 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
-The quick answer to "Do first babies arrive late?" is no. First babies most frequently arrive in the 39th week, which is the same as the mean arrival week for all babies born, given the sample data in this chapter. That's not to say that the answer wouldn't be different if we framed the question differently. If we made the question more specific, "Do first babies of older mothers arrive late?", then the answer might be different. We could separate the data for first babies born to mothers between different age groups and plot the frequencies on another histogram and observe the outcome. But for first babies as we saw in Chapter 2, they follow a normal distribution and their arrival dates do not differ signifcantly to any other type of baby. 
+
